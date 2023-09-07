@@ -1,6 +1,6 @@
 👋 Hey all!
 
-I’m André Monteiro, a beginner web developer from Porto, Portugal 🇵🇹
+I’m André Monteiro, from Porto, Portugal 🇵🇹
 
 
 I'm learning web development – I've used HTML and CSS and I'm currently writing my first JavaScript programs. I've also programmed in Python in the past, which made me appreciate software even more.

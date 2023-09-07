@@ -11,6 +11,6 @@ I also want to keep learning more about abstraction layers and system design. Th
 
 Looking to collaborate on apps that solve real problems or create nice features on OSS.
 
-📫 PM me if you want to bounce on any ideas!
+📫 DM me if you want to bounce on any ideas!
 
 

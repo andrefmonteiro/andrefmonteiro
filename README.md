@@ -1,3 +1,3 @@
 Full stack bootcamp @ Mindera
 
-Currently learning Java.
+Currently learning Java, JavaScript and React.

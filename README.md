@@ -1,3 +1,1 @@
-Full stack bootcamp @ Mindera
-
-Between React, Next.js and Java.
+Passionate about engaging user experiences and data structures.

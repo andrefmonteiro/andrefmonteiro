@@ -1,1 +1,1 @@
-Passionate about engaging user experiences and data structures.
+Passionate about engaging user experiences and abstractions.

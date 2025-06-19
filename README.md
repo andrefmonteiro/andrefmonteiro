@@ -1,4 +1,3 @@
-Passionate about building engaging user experiences and abstractions.
+Passionate about engaging user experiences and abstractions.
 
-Studying Computer Science @ University of Porto.
-Available for collaboration - full-time or freelance.
+Computer Science @ University of Porto.

@@ -1,3 +1,3 @@
-Passionate about engaging user experiences and abstractions.
+Passionate about abstractions and engaging user experiences.
 
 Computer Science @ University of Porto.

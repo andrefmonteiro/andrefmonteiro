@@ -1,1 +1,3 @@
-Passionate about abstractions and engaging user experiences.
+https://andremonteiro.me
+
+User-centric software developer.

@@ -1,6 +1,4 @@
-<p align="center">
-  <samp>
-    <a href="https://andremonteiro.me">me</a> |
-    <a href="https://andremonteiro.me/blog">blog</a>
-  </samp>
-</p>
+<div>
+  <p>Drawn into the web as an agnostic platform. I like data-modelling and elegant interfaces.</p>
+    I have a <a href="https://andremonteiro.me/blog">blog.</a>
+</div>
